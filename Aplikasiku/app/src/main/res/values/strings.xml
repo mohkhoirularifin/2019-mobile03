@@ -14,6 +14,6 @@
 	<string name="enter_your_reset_code">Masukkan Kode Resetmu</string>
 	<string name="new_password">Password Baru</string>
 	<string name="confirm_password">Konfirmasi Password</string>
-	<string name="send_request">Send Request</string>
+	<string name="send_request">Kirim Permintaan</string>
 	<string name="change_password">Ganti Password</string>
 </resources>
